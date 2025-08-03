@@ -69,7 +69,7 @@ weighted avg       0.98      0.97      0.97       200
  How to Run
 
 1. Upload the dataset to Google Drive
-2. Open the [Colab Notebook](#) *(Add your Colab link here)*
+2. Open the link : https://colab.research.google.com/drive/18dI0GELPuNH9kRbH511h8V3JzJ6i0Ii2?usp=sharing
 3. Mount Drive and set path
 4. Run cells step by step
 
@@ -82,11 +82,5 @@ weighted avg       0.98      0.97      0.97       200
 - Traditional ML classifier on deep learning features
 - Evaluation using confusion matrix and classification report
 
----
 
- Status
 
-- [x] Dataset prepared
-- [x] Features extracted with VGG16
-- [x] SVM trained and evaluated
-- [x] GitHub and LinkedIn documentation ready
